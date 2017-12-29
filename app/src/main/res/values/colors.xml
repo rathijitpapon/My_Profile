@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimaryText">#050505</color>
+    <color name="profileCollapsibleBarBackground">#db7b80</color>
+    <color name="profileCollapsibleBarTextColor">#303030</color>
+    <color name="profileScrollBackground">#FFFFFF</color>
+    <color name="profileDataTextColor">#303030</color>
+    <color name="profileDataFieldNameTextColor">#ff4081</color>
+</resources>
